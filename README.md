@@ -1,17 +1,31 @@
 
 <h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
-</p>This is Kaviarasan. Thank You for taking the time to view my GitHub Profile
+</p>Thank You for taking the time to view my GitHub Profile
 
+👋 Hi there! I'm Kaviarasan, a passionate Data Analyst and Data Scientist with a keen interest in turning data into actionable insights. With extensive experience in data analysis, machine learning, and statistical modeling, I thrive on solving complex problems and driving data-driven decisions.
 
+🔍 Expertise:
 
-<h2> About Me </h2>
+Data Analysis & Visualization
+Machine Learning & AI
+Statistical Modeling
+Data Cleaning & Preprocessing
+SQL, Python
+Data Storytelling & Reporting
 
-- 🔭 I’m currently working on Datascience Project
-- 🌱 I’m currently learning all required tools to excel in Datascience feild
-- 👯 I’m looking to collaborate on Data Science Projects
-- 💬 Ask me about python(pandas & Numpy),machine learning & Datascience
-- 📫 How to reach me: kaviarasangk5@gmail.com
+💼 Professional Experience:
+
+I've worked on a variety of projects ranging from exploratory data analysis to building sophisticated predictive models. My hands-on experience includes working with large datasets, creating visualizations, and developing algorithms to uncover trends and patterns.
+
+📈 Goals:
+
+I'm constantly seeking opportunities to learn and grow in the field of data science. I'm particularly interested in projects that involve innovative applications of machine learning and data analytics.
+
+🌐 Let's Connect:
+
+Feel free to reach out if you want to collaborate on a project, discuss data analysis and data science trends, or just have a chat about the latest in tech. You can find me on kaviarasangk5@gmail.com
+
 
 
 ## My Skills 
